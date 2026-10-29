@@ -1,6 +1,7 @@
 # SimCLR and DeepCluster Experiments
 
 SimClr : https://forge.coreweave.com/wandb/shriramgolla-iit-hyderabad/simclr-cifar10-ablations_3/
+
 Deep Cluster : https://forge.coreweave.com/wandb/shriramgolla-iit-hyderabad/deepcluster-cifar10/
 
 This project explores self-supervised learning techniques for learning visual representations from unlabeled images.
