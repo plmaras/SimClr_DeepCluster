@@ -20,3 +20,9 @@ This project explores self-supervised learning techniques for learning visual re
 
 ### Goal
 Compare contrastive learning and clustering-based self-supervised learning to understand their effectiveness in learning meaningful visual features without manually annotated labels.
+
+SimCLr:
+![Image](./Probetestacc.png)
+
+DeepProbe:
+![Image](./DeepProbe.png)
